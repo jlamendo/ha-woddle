@@ -1,0 +1,13 @@
+{
+  "domain": "woddle",
+  "name": "Woddle Smart Baby Scale",
+  "codeowners": ["@jlamendola"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/woddle",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "loggers": ["pywoddle"],
+  "requirements": ["pywoddle==0.1.0"],
+  "quality_scale": "bronze"
+}
