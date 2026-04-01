@@ -1,7 +1,7 @@
 {
   "domain": "woddle",
   "name": "Woddle Smart Baby Scale",
-  "codeowners": ["@jlamendola"],
+  "codeowners": ["@jlamendo"],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://www.home-assistant.io/integrations/woddle",
