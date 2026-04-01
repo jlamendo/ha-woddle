@@ -9,5 +9,6 @@
   "iot_class": "cloud_polling",
   "loggers": ["pywoddle"],
   "requirements": ["pywoddle==0.1.0"],
-  "quality_scale": "bronze"
+  "quality_scale": "bronze",
+  "version": "0.1.0"
 }
